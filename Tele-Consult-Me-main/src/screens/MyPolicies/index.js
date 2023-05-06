@@ -18,7 +18,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import Axios from 'axios';
 
 const comapnyList = [
-  { label: "hreat  Eastern", value: "hreat  Eastern" },
+  { label: "Great  Eastern", value: "Great  Eastern" },
   { label: "AIA", value: "AIA" },
   { label: "AXA", value: "AXA" },
   { label: "Prudential", value: "Prudential" },
